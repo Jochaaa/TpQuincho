@@ -7,7 +7,7 @@ La tabla **"clientes"** cuenta con una clave primaria llamada **"id_cliente"** (
 
 **Integrantes:**
 
- **Jose Agostini**
+ **Jose Agostiniiiii**
  
  Mail:
   • joseagostini2012@gmail.com
